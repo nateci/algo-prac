@@ -7,6 +7,7 @@ leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nateci/algo-prac/tree/master/0001-two-sum) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ leetcode
 | [0009-palindrome-number](https://github.com/nateci/algo-prac/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
