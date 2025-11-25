@@ -7,6 +7,7 @@ leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nateci/algo-prac/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nateci/algo-prac/tree/master/0011-container-with-most-water) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nateci/algo-prac/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -62,4 +64,8 @@ leetcode
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nateci/algo-prac/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nateci/algo-prac/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
