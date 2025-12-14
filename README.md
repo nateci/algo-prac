@@ -31,10 +31,12 @@ leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nateci/algo-prac/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/nateci/algo-prac/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nateci/algo-prac/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/nateci/algo-prac/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
@@ -59,6 +61,7 @@ leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/nateci/algo-prac/tree/master/0010-regular-expression-matching) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nateci/algo-prac/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
