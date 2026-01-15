@@ -43,6 +43,7 @@ leetcode
 | [0008-string-to-integer-atoi](https://github.com/nateci/algo-prac/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/nateci/algo-prac/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/nateci/algo-prac/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
 ## Two Pointers
@@ -85,4 +86,8 @@ leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nateci/algo-prac/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nateci/algo-prac/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
