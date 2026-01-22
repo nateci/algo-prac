@@ -13,6 +13,7 @@ leetcode
 | [0027-remove-element](https://github.com/nateci/algo-prac/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nateci/algo-prac/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ leetcode
 | [0001-two-sum](https://github.com/nateci/algo-prac/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nateci/algo-prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +98,7 @@ leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nateci/algo-prac/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -104,4 +107,9 @@ leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
