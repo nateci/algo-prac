@@ -1,12 +1,8 @@
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-        """
-        Do not return anything, modify nums1 in-place instead.
-        """
-
         midx = m - 1
-        nidx = n - 1
-        right = n + m - 1
+        nidx = n - 1 
+        right = m + n - 1
 
         while nidx >= 0:
             if midx >= 0 and nums1[midx] > nums2[nidx]:
@@ -17,5 +13,3 @@ class Solution:
                 nidx -= 1
 
             right -= 1
-
-    
