@@ -8,14 +8,14 @@ class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         values = []
 
-        def traverse(node):
+        def inorder(node):
             if not node:
                 return
-            traverse(node.left)
+            inorder(node.left)
             values.append(node.val)
-            traverse(node.right)
+            inorder(node.right)
 
-        traverse(root)
+        inorder(root)
         return values[k-1]
             
         
