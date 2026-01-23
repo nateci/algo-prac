@@ -120,4 +120,20 @@ leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
