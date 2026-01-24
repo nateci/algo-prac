@@ -62,6 +62,7 @@ leetcode
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/nateci/algo-prac/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nateci/algo-prac/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
