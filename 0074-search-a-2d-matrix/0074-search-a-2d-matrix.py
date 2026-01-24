@@ -1,6 +1,5 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        
         top = 0
         bot = len(matrix) - 1
 
@@ -12,6 +11,7 @@ class Solution:
 
             elif matrix[mid][0] > target:
                 bot = mid - 1
+
             else:
                 top = mid + 1
 
@@ -27,8 +27,12 @@ class Solution:
                 return True
 
             elif matrix[row][mid] > target:
-                right = mid - 1
+                right = mid -1
+
             else:
                 left = mid + 1
 
         return False
+
+
+
