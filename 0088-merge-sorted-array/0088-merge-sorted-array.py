@@ -4,8 +4,8 @@ class Solution:
         Do not return anything, modify nums1 in-place instead.
         """
 
-        midx = m -1
-        nidx = n -1
+        midx = m - 1
+        nidx = n - 1
         right = n + m - 1
 
         while nidx >= 0:
@@ -17,9 +17,9 @@ class Solution:
                 nums1[right] = nums2[nidx]
                 nidx -= 1
 
-            right -= 1
+            right -=1
 
-    
+
 # class Solution:
 #     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
 #         midx = m - 1
