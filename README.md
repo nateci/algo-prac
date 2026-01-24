@@ -13,6 +13,7 @@ leetcode
 | [0027-remove-element](https://github.com/nateci/algo-prac/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nateci/algo-prac/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/nateci/algo-prac/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/nateci/algo-prac/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nateci/algo-prac/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nateci/algo-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nateci/algo-prac/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/nateci/algo-prac/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/nateci/algo-prac/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,4 +140,8 @@ leetcode
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/nateci/algo-prac/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
