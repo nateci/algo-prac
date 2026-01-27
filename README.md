@@ -22,6 +22,7 @@ leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nateci/algo-prac/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/nateci/algo-prac/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
+| [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ leetcode
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/nateci/algo-prac/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
+| [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +82,7 @@ leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nateci/algo-prac/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 ## Bit Manipulation
 |  |
 | ------- |
