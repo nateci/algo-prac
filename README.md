@@ -24,6 +24,7 @@ leetcode
 | [0162-find-peak-element](https://github.com/nateci/algo-prac/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -37,6 +38,7 @@ leetcode
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -84,6 +86,7 @@ leetcode
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nateci/algo-prac/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -129,6 +132,7 @@ leetcode
 | [0035-search-insert-position](https://github.com/nateci/algo-prac/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/nateci/algo-prac/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/nateci/algo-prac/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
@@ -146,6 +150,7 @@ leetcode
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 ## Counting
 |  |
