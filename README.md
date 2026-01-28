@@ -34,6 +34,7 @@ leetcode
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/nateci/algo-prac/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@ leetcode
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/nateci/algo-prac/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@ leetcode
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 ## Counting
 |  |
