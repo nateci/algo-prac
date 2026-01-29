@@ -164,6 +164,7 @@ leetcode
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,11 +174,13 @@ leetcode
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
