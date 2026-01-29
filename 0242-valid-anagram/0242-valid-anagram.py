@@ -4,17 +4,26 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        freq = {}
+
+        freq_s = {}
         for char in s:
-            freq[char] = freq.get(char, 0) + 1
+            freq_s[char] = freq_s.get(char, 0) + 1
 
         for char in t:
-            freq[char] = freq.get(char, 0) - 1
+            freq_s[char] = freq_s.get(char, 0) - 1
 
-        
-        for count in freq.values():
+
+
+        for count in freq_s.values():
             if count != 0:
                 return False
 
         return True
+
+
+        
+
+
+
+        
         
