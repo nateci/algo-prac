@@ -8,16 +8,15 @@ class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
 
         current = root
-        while current:
-            if val == current.val:
-                return current
-            elif val < current.val:
-                current = current.left
 
-            else:
+        while current:
+            if current.val == val:
+                return current
+
+            if current.val < val:
                 current = current.right
 
+            else:
+                current = current.left
+
         return None
-
-
-        
