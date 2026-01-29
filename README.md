@@ -39,6 +39,7 @@ leetcode
 | [0205-isomorphic-strings](https://github.com/nateci/algo-prac/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/nateci/algo-prac/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nateci/algo-prac/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -79,6 +80,7 @@ leetcode
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nateci/algo-prac/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/nateci/algo-prac/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nateci/algo-prac/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
