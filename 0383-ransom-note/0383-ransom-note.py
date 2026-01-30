@@ -1,19 +1,28 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
 
-        magazineFreq = {}
-
+        counter = {}
         for char in magazine:
-            magazineFreq[char] = magazineFreq.get(char, 0) + 1
+            counter[char] = counter.get(char, 0) + 1
 
-        
+
         for char in ransomNote:
-            if char not in magazineFreq or magazineFreq[char] == 0:
+            if char not in counter or counter[char] == 0:
                 return False
-                
-            magazineFreq[char] -= 1
+
+            counter[char] -= 1
 
         return True
+
+
+        """
+        ransom note = aa
+        magazine = ab
+
+        """
+
+
+        
 
         
         
