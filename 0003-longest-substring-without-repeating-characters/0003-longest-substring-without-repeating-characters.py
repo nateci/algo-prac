@@ -3,6 +3,7 @@ class Solution:
         left = res = 0
         seen = set()
 
+
         for right in range(len(s)):
             while s[right] in seen:
                 seen.remove(s[left])
@@ -13,3 +14,10 @@ class Solution:
             res = max(res, right - left + 1)
 
         return res
+
+        """
+        abcabcbb
+        current - [abca]
+        seen - [abc]
+        window - [bca]
+        """
