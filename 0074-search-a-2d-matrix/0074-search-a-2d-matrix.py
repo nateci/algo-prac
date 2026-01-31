@@ -6,7 +6,7 @@ class Solution:
         while bot >= top:
             mid = (top + bot) // 2
 
-            if matrix[mid][0] < target and target < matrix[mid][-1]:
+            if matrix[mid][0] <= target and target <= matrix[mid][-1]:
                 break
 
             if matrix[mid][0] < target:
@@ -25,7 +25,7 @@ class Solution:
             if matrix[row][mid] == target:
                 return True
 
-            elif matrix[row][mid] < target:
+            if  matrix[row][mid] < target:
                 left = mid + 1
 
             else:
