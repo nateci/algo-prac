@@ -10,10 +10,10 @@ class Solution:
                 break
 
             if matrix[mid][0] < target:
-                top += 1
+                top = mid + 1
 
             else:
-                bot -= 1
+                bot = mid -1
 
         row = (top + bot) // 2
         left = 0
@@ -25,7 +25,7 @@ class Solution:
             if matrix[row][mid] == target:
                 return True
 
-            elif matrix[row][mid] <= target:
+            elif matrix[row][mid] < target:
                 left = mid + 1
 
             else:
