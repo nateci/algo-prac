@@ -3,7 +3,7 @@ class Solution:
         top = 0
         bot = len(matrix) -1
 
-        while bot > top:
+        while bot >= top:
             mid = (top + bot) // 2
 
             if matrix[mid][0] < target and target < matrix[mid][-1]:
@@ -20,7 +20,7 @@ class Solution:
         right = len(matrix[row]) - 1
 
 
-        while left < right:
+        while left <= right:
             mid = (left + right) // 2
             if matrix[row][mid] == target:
                 return True
