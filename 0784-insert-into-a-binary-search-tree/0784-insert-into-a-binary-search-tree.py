@@ -10,10 +10,11 @@ class Solution:
         if current is None:
             return TreeNode(val)
 
-        if current.val > val:
-            current.left = self.insertIntoBST(current.left, val)
-        else:
+        if current.val < val:
             current.right = self.insertIntoBST(current.right, val)
-        
+
+        else:
+            current.left = self.insertIntoBST(current.left, val)
+
         return current
         
