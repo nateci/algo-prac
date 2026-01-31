@@ -38,6 +38,7 @@ leetcode
 | [0049-group-anagrams](https://github.com/nateci/algo-prac/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nateci/algo-prac/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/nateci/algo-prac/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nateci/algo-prac/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
@@ -61,6 +62,7 @@ leetcode
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nateci/algo-prac/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/nateci/algo-prac/tree/master/0202-happy-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
@@ -97,6 +99,7 @@ leetcode
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nateci/algo-prac/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/nateci/algo-prac/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
