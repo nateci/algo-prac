@@ -23,6 +23,7 @@ leetcode
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nateci/algo-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nateci/algo-prac/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/nateci/algo-prac/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nateci/algo-prac/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nateci/algo-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@ leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/nateci/algo-prac/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
