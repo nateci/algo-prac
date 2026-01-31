@@ -25,6 +25,7 @@ leetcode
 | [0162-find-peak-element](https://github.com/nateci/algo-prac/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nateci/algo-prac/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
@@ -41,6 +42,7 @@ leetcode
 | [0202-happy-number](https://github.com/nateci/algo-prac/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nateci/algo-prac/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nateci/algo-prac/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nateci/algo-prac/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +109,7 @@ leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nateci/algo-prac/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/nateci/algo-prac/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nateci/algo-prac/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 ## Bit Manipulation
