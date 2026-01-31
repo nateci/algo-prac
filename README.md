@@ -15,6 +15,7 @@ leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nateci/algo-prac/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nateci/algo-prac/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/nateci/algo-prac/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nateci/algo-prac/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/nateci/algo-prac/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/nateci/algo-prac/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nateci/algo-prac/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -34,6 +35,7 @@ leetcode
 | [0001-two-sum](https://github.com/nateci/algo-prac/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nateci/algo-prac/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/nateci/algo-prac/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nateci/algo-prac/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nateci/algo-prac/tree/master/0205-isomorphic-strings) |
@@ -75,6 +77,7 @@ leetcode
 | [0010-regular-expression-matching](https://github.com/nateci/algo-prac/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nateci/algo-prac/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/nateci/algo-prac/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/nateci/algo-prac/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/nateci/algo-prac/tree/master/0125-valid-palindrome) |
@@ -155,6 +158,7 @@ leetcode
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nateci/algo-prac/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
