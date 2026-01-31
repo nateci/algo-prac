@@ -31,6 +31,7 @@ leetcode
 | [0283-move-zeroes](https://github.com/nateci/algo-prac/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
+| [0792-binary-search](https://github.com/nateci/algo-prac/tree/master/0792-binary-search) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -161,6 +162,7 @@ leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nateci/algo-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
+| [0792-binary-search](https://github.com/nateci/algo-prac/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
