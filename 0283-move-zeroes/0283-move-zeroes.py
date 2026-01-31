@@ -6,8 +6,14 @@ class Solution:
         slow = 0
 
         for fast in range(len(nums)):
+            """
+            0 1 0 3 12
+            s f 
+            1 0 0 3 12
+              s f
+            """
             if nums[fast] != 0:
-                nums[slow], nums[fast] = nums[fast], nums[slow]
+                nums[fast], nums[slow] = nums[slow], nums[fast]
                 slow += 1
-        return slow
-    
+
+        
