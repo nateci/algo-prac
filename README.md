@@ -17,6 +17,7 @@ leetcode
 | [0048-rotate-image](https://github.com/nateci/algo-prac/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nateci/algo-prac/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/nateci/algo-prac/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/nateci/algo-prac/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nateci/algo-prac/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nateci/algo-prac/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nateci/algo-prac/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@ leetcode
 | [0009-palindrome-number](https://github.com/nateci/algo-prac/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nateci/algo-prac/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/nateci/algo-prac/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/nateci/algo-prac/tree/master/0202-happy-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
