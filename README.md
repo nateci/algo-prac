@@ -98,6 +98,7 @@ leetcode
 | [0290-word-pattern](https://github.com/nateci/algo-prac/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/nateci/algo-prac/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/nateci/algo-prac/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nateci/algo-prac/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
@@ -116,6 +117,7 @@ leetcode
 | [0283-move-zeroes](https://github.com/nateci/algo-prac/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nateci/algo-prac/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/nateci/algo-prac/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -143,6 +145,7 @@ leetcode
 | [0097-interleaving-string](https://github.com/nateci/algo-prac/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nateci/algo-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nateci/algo-prac/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/nateci/algo-prac/tree/master/0392-is-subsequence) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nateci/algo-prac/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
 |  |
