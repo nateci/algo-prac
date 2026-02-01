@@ -5,9 +5,9 @@ class Solution:
         """
         k = k % len(nums)
 
-        if k!=0:
-            nums[:k], nums[k:] = nums[-k:], nums[:-k]
-            k += 1
-            
-        return k
+        nums.reverse()
+
+        nums[:k] = reversed(nums[:k])
+        nums[k:] = reversed(nums[k:])
+
         
