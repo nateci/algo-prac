@@ -3,33 +3,34 @@ class Solution:
         top = 0
         bot = len(matrix) -1
 
-        while bot > top:
+        while top <= bot:
             mid = (top + bot) // 2
 
-            if matrix[mid][0] < target and target < matrix[mid][-1]:
+            if matrix[mid][0] < target and matrix[mid][-1] > target:
                 break
 
-            if matrix[mid][0] < target:
-                top += 1
+            elif matrix[mid][0] > target:
+                bot = mid - 1
 
             else:
-                bot -= 1
+                top = mid + 1
+
 
         row = (top + bot) // 2
         left = 0
         right = len(matrix[row]) - 1
 
 
-        while left < right:
+        while left <= right:
             mid = (left + right) // 2
             if matrix[row][mid] == target:
                 return True
 
-            elif matrix[row][mid] < target:
-                left = mid + 1
+            elif matrix[row][mid] > target:
+                right = mid -1
 
             else:
-                right = mid - 1
+                left = mid + 1
 
         return False
 
