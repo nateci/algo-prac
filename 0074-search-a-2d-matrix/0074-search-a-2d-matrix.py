@@ -15,7 +15,6 @@ class Solution:
             else:
                 top = mid + 1
 
-
         row = (top + bot) // 2
         left = 0
         right = len(matrix[row]) - 1
