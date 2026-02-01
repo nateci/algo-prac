@@ -144,6 +144,7 @@ leetcode
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nateci/algo-prac/tree/master/0232-implement-queue-using-stacks) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nateci/algo-prac/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Greedy
 |  |
@@ -174,6 +175,7 @@ leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nateci/algo-prac/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/nateci/algo-prac/tree/master/0232-implement-queue-using-stacks) |
 ## Sorting
 |  |
 | ------- |
@@ -223,4 +225,8 @@ leetcode
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nateci/algo-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nateci/algo-prac/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
