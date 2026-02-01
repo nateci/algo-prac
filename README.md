@@ -202,6 +202,7 @@ leetcode
 | ------- |
 | [0100-same-tree](https://github.com/nateci/algo-prac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nateci/algo-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/nateci/algo-prac/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -210,6 +211,7 @@ leetcode
 | ------- |
 | [0100-same-tree](https://github.com/nateci/algo-prac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nateci/algo-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/nateci/algo-prac/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -222,6 +224,7 @@ leetcode
 | ------- |
 | [0100-same-tree](https://github.com/nateci/algo-prac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nateci/algo-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/nateci/algo-prac/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/nateci/algo-prac/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -235,6 +238,7 @@ leetcode
 | ------- |
 | [0100-same-tree](https://github.com/nateci/algo-prac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nateci/algo-prac/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/nateci/algo-prac/tree/master/0226-invert-binary-tree) |
 ## Design
 |  |
 | ------- |
