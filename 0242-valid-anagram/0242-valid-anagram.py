@@ -4,29 +4,12 @@ class Solution:
             return False
 
 
-        """
-        s = anagram
-
-        for eveery letter in s a:2 n:1 g:1 r:1 etc. .
-
-        """
-
-        freq_s = {}
-        freq_t = {}
-
+        smap = {}
         for char in s:
-            freq_s[char] = freq_s.get(char, 0) + 1
+            smap[char] = smap.get(char, 0) + 1
 
+        tmap = {}
         for char in t:
-            freq_t[char] = freq_t.get(char,0) + 1
+            tmap[char] = tmap.get(char, 0) + 1
 
-
-        return freq_t == freq_s
-
-        
-        
-
-
-
-        
-        
+        return tmap == smap
