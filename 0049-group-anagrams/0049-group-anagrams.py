@@ -1,26 +1,19 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groups = {}
-
+    def groupAnagrams(self, strs):
+        group = {}
+        
         for word in strs:
-            key = ''.join(sorted(word))
-
-
-            if key in groups:
-                groups[key].append(word)
+            count = [0] * 26  # For a-z
+            
+            for char in word:
+                index = ord(char) - ord('a')
+                count[index] += 1
+            
+            key = tuple(count)
+            
+            if key in group:
+                group[key].append(word)
             else:
-                groups[key] = [word]
-
-        return list(groups.values())
-        """
-        eat --> aet
+                group[key] = [word]
         
-        aet = [eat]
-        ant = [tan]
-        abt = [bat]
-        """
-
-    
-        
-        
-        
+        return list(group.values())
