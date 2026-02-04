@@ -64,6 +64,7 @@ leetcode
 | [0021-merge-two-sorted-lists](https://github.com/nateci/algo-prac/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nateci/algo-prac/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/nateci/algo-prac/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/nateci/algo-prac/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ leetcode
 | [0010-regular-expression-matching](https://github.com/nateci/algo-prac/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/nateci/algo-prac/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nateci/algo-prac/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/nateci/algo-prac/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
