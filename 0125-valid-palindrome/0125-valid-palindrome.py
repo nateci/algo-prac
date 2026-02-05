@@ -3,20 +3,17 @@ class Solution:
         cleaned = []
         for char in s:
             if char.isalnum():
-                cleaned.append(char.tolower)
+                cleaned.append(char.lower())
+
         s = ''.join(cleaned)
 
 
+        left = 0 
+        right = len(s) - 1
 
-
-        left = 0
-        right = len(s)-1
-
-        while left <= right:
-            if s[right] != s[left]:
+        while left < right:
+            if s[left] != s[right]:
                 return False
-
-            left += 1
+            left +=1
             right -= 1
-
         return True
