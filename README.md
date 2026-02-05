@@ -9,6 +9,7 @@ leetcode
 | [0001-two-sum](https://github.com/nateci/algo-prac/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nateci/algo-prac/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nateci/algo-prac/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/nateci/algo-prac/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nateci/algo-prac/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nateci/algo-prac/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nateci/algo-prac/tree/master/0033-search-in-rotated-sorted-array) |
@@ -93,6 +94,7 @@ leetcode
 | [0008-string-to-integer-atoi](https://github.com/nateci/algo-prac/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/nateci/algo-prac/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/nateci/algo-prac/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/nateci/algo-prac/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nateci/algo-prac/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nateci/algo-prac/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nateci/algo-prac/tree/master/0058-length-of-last-word) |
@@ -273,4 +275,8 @@ leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nateci/algo-prac/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nateci/algo-prac/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
