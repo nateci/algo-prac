@@ -6,11 +6,23 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-
         if not root:
             return 0
 
-        left_depth = self.maxDepth(root.left)
-        right_depth = self.maxDepth(root.right)
+        queue = deque([root])
+        depth = 0
 
-        return max(left_depth, right_depth) + 1
+        while queue:
+            depth += 1
+            level_depth = len(queue)
+
+            for i in range(level_depth):
+                node = queue.popleft()
+
+                if node.left:
+                    queue.append(node.left)
+
+                if node.right:
+                    queue.append(node.right)
+
+        return depth
