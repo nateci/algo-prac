@@ -3,7 +3,6 @@ class Solution:
         pref = strs[0]
         pref_len = len(pref)
 
-
         for s in strs[1:]:
             while pref != s[0:pref_len]:
                 pref_len -= 1
