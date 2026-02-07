@@ -9,15 +9,13 @@ class Solution:
         if not root:
             return 0
 
+        depth = 0
         queue = deque([root])
-        result = []
-        depth =  0
 
         while queue:
             depth += 1
-            level_size = len(queue)
 
-            for _ in range(level_size):
+            for _ in range(len(queue)):
                 node = queue.popleft()
                 if node.left:
                     queue.append(node.left)
