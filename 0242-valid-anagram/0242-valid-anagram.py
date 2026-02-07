@@ -3,13 +3,13 @@ class Solution:
         if len(s) != len(t):
             return False
 
+        map_s = {}
 
-        smap = {}
         for char in s:
-            smap[char] = smap.get(char, 0) + 1
+            map_s[char] = map_s.get(char, 0 ) + 1
 
-        tmap = {}
         for char in t:
-            tmap[char] = tmap.get(char, 0) + 1
-
-        return tmap == smap
+            if char not in map_s or map_s[char] == 0:
+                return False
+            map_s[char] -= 1
+        return True
