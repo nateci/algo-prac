@@ -10,18 +10,17 @@ class Solution:
             return 0
 
         queue = deque([root])
-        depth = 0
+        result = []
+        depth =  0
 
         while queue:
             depth += 1
-            level_depth = len(queue)
+            level_size = len(queue)
 
-            for i in range(level_depth):
+            for _ in range(level_size):
                 node = queue.popleft()
-
                 if node.left:
                     queue.append(node.left)
-
                 if node.right:
                     queue.append(node.right)
 
