@@ -1,27 +1,20 @@
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
-
+        
         words = s.split()
-
         if len(pattern) != len(words):
             return False
 
-        
-        patternmap = {}
-        smap = {}
+        charmap = {}
+        wordmap = {}
+        for i, (char, word) in enumerate(zip(pattern, words)):
+            if char not in charmap:
+                charmap[char] = i
 
-        for i in range(len(words)):
-            if pattern[i] not in patternmap:
-                patternmap[pattern[i]] = i
+            if word not in wordmap:
+                wordmap[word] = i
 
-            if words[i] not in smap:
-                smap[words[i]] = i
-
-            if smap[words[i]] != patternmap[pattern[i]]:
+            if wordmap[word] != charmap[char]:
                 return False
 
         return True
-                
-
-
-        
