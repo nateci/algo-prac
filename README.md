@@ -39,6 +39,7 @@ leetcode
 | [0283-move-zeroes](https://github.com/nateci/algo-prac/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
+| [0695-max-area-of-island](https://github.com/nateci/algo-prac/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/nateci/algo-prac/tree/master/0792-binary-search) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -258,6 +259,7 @@ leetcode
 | [0226-invert-binary-tree](https://github.com/nateci/algo-prac/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nateci/algo-prac/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nateci/algo-prac/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/nateci/algo-prac/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -289,6 +291,7 @@ leetcode
 | [0048-rotate-image](https://github.com/nateci/algo-prac/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nateci/algo-prac/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/nateci/algo-prac/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nateci/algo-prac/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +303,7 @@ leetcode
 | [0199-binary-tree-right-side-view](https://github.com/nateci/algo-prac/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nateci/algo-prac/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nateci/algo-prac/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/nateci/algo-prac/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
@@ -310,6 +314,7 @@ leetcode
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nateci/algo-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nateci/algo-prac/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nateci/algo-prac/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
 | ------- |
