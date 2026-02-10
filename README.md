@@ -83,6 +83,7 @@ leetcode
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/nateci/algo-prac/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nateci/algo-prac/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/nateci/algo-prac/tree/master/0231-power-of-two) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
@@ -92,6 +93,7 @@ leetcode
 | [0021-merge-two-sorted-lists](https://github.com/nateci/algo-prac/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nateci/algo-prac/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/nateci/algo-prac/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nateci/algo-prac/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ leetcode
 | [0190-reverse-bits](https://github.com/nateci/algo-prac/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nateci/algo-prac/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nateci/algo-prac/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/nateci/algo-prac/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
