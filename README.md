@@ -19,6 +19,7 @@ leetcode
 | [0045-jump-game-ii](https://github.com/nateci/algo-prac/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/nateci/algo-prac/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nateci/algo-prac/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nateci/algo-prac/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nateci/algo-prac/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nateci/algo-prac/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nateci/algo-prac/tree/master/0074-search-a-2d-matrix) |
@@ -171,6 +172,7 @@ leetcode
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nateci/algo-prac/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/nateci/algo-prac/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/nateci/algo-prac/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nateci/algo-prac/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/nateci/algo-prac/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nateci/algo-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -209,6 +211,7 @@ leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nateci/algo-prac/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/nateci/algo-prac/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nateci/algo-prac/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nateci/algo-prac/tree/master/0191-number-of-1-bits) |
