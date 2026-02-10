@@ -1,6 +1,14 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        missing = len(nums)
-        for i, num in enumerate(nums):
-            missing ^= i ^ num
-        return missing
+        nums.sort()
+
+        if nums[-1] != len(nums):
+            return len(nums)
+
+        elif nums[0] != 0:
+            return 0
+
+        for i in range(1, len(nums)):
+            expected_num = nums[i-1] + 1
+            if nums[i] != expected_num:
+                return expected_num
