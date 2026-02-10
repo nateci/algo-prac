@@ -36,6 +36,7 @@ leetcode
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nateci/algo-prac/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/nateci/algo-prac/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nateci/algo-prac/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
@@ -58,6 +59,7 @@ leetcode
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nateci/algo-prac/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nateci/algo-prac/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
@@ -84,6 +86,7 @@ leetcode
 | [0189-rotate-array](https://github.com/nateci/algo-prac/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nateci/algo-prac/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nateci/algo-prac/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
@@ -157,6 +160,7 @@ leetcode
 | [0191-number-of-1-bits](https://github.com/nateci/algo-prac/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/nateci/algo-prac/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nateci/algo-prac/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +201,7 @@ leetcode
 | [0162-find-peak-element](https://github.com/nateci/algo-prac/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nateci/algo-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/nateci/algo-prac/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/nateci/algo-prac/tree/master/0792-binary-search) |
@@ -224,6 +229,7 @@ leetcode
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 ## Counting
