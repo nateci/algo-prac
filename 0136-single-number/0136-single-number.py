@@ -4,3 +4,4 @@ class Solution:
         for n in nums:
             a = a^n
         return a
+        
