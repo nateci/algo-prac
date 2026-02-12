@@ -67,6 +67,7 @@ leetcode
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nateci/algo-prac/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1512-design-underground-system](https://github.com/nateci/algo-prac/tree/master/1512-design-underground-system) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
 | [2169-simple-bank-system](https://github.com/nateci/algo-prac/tree/master/2169-simple-bank-system) |
 ## Linked List
@@ -124,6 +125,7 @@ leetcode
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nateci/algo-prac/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nateci/algo-prac/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1512-design-underground-system](https://github.com/nateci/algo-prac/tree/master/1512-design-underground-system) |
 | [1894-merge-strings-alternately](https://github.com/nateci/algo-prac/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -341,6 +343,7 @@ leetcode
 | ------- |
 | [0155-min-stack](https://github.com/nateci/algo-prac/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nateci/algo-prac/tree/master/0232-implement-queue-using-stacks) |
+| [1512-design-underground-system](https://github.com/nateci/algo-prac/tree/master/1512-design-underground-system) |
 | [2169-simple-bank-system](https://github.com/nateci/algo-prac/tree/master/2169-simple-bank-system) |
 ## Union-Find
 |  |
