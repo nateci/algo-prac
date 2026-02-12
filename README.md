@@ -45,6 +45,7 @@ leetcode
 | [0695-max-area-of-island](https://github.com/nateci/algo-prac/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/nateci/algo-prac/tree/master/0792-binary-search) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
+| [2169-simple-bank-system](https://github.com/nateci/algo-prac/tree/master/2169-simple-bank-system) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nateci/algo-prac/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ leetcode
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nateci/algo-prac/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/nateci/algo-prac/tree/master/1813-maximum-erasure-value) |
+| [2169-simple-bank-system](https://github.com/nateci/algo-prac/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +171,7 @@ leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
+| [2169-simple-bank-system](https://github.com/nateci/algo-prac/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nateci/algo-prac/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Dynamic Programming
 |  |
@@ -338,6 +341,7 @@ leetcode
 | ------- |
 | [0155-min-stack](https://github.com/nateci/algo-prac/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nateci/algo-prac/tree/master/0232-implement-queue-using-stacks) |
+| [2169-simple-bank-system](https://github.com/nateci/algo-prac/tree/master/2169-simple-bank-system) |
 ## Union-Find
 |  |
 | ------- |
