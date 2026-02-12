@@ -40,6 +40,7 @@ leetcode
 | [0228-summary-ranges](https://github.com/nateci/algo-prac/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nateci/algo-prac/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/nateci/algo-prac/tree/master/0695-max-area-of-island) |
@@ -64,6 +65,7 @@ leetcode
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nateci/algo-prac/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nateci/algo-prac/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -223,6 +225,7 @@ leetcode
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nateci/algo-prac/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nateci/algo-prac/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -241,12 +244,14 @@ leetcode
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
 ## Tree
 |  |
@@ -359,4 +364,16 @@ leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nateci/algo-prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
