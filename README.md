@@ -175,6 +175,7 @@ leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nateci/algo-prac/tree/master/0067-add-binary) |
+| [1708-design-parking-system](https://github.com/nateci/algo-prac/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/nateci/algo-prac/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nateci/algo-prac/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Dynamic Programming
@@ -253,6 +254,7 @@ leetcode
 | [0169-majority-element](https://github.com/nateci/algo-prac/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nateci/algo-prac/tree/master/0383-ransom-note) |
+| [1708-design-parking-system](https://github.com/nateci/algo-prac/tree/master/1708-design-parking-system) |
 ## Tree
 |  |
 | ------- |
@@ -349,6 +351,7 @@ leetcode
 | [0155-min-stack](https://github.com/nateci/algo-prac/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nateci/algo-prac/tree/master/0232-implement-queue-using-stacks) |
 | [1512-design-underground-system](https://github.com/nateci/algo-prac/tree/master/1512-design-underground-system) |
+| [1708-design-parking-system](https://github.com/nateci/algo-prac/tree/master/1708-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/nateci/algo-prac/tree/master/2169-simple-bank-system) |
 ## Union-Find
 |  |
