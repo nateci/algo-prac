@@ -40,6 +40,7 @@ leetcode
 | [0219-contains-duplicate-ii](https://github.com/nateci/algo-prac/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/nateci/algo-prac/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/nateci/algo-prac/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/nateci/algo-prac/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
@@ -247,6 +248,7 @@ leetcode
 | [0217-contains-duplicate](https://github.com/nateci/algo-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nateci/algo-prac/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nateci/algo-prac/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/nateci/algo-prac/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nateci/algo-prac/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/nateci/algo-prac/tree/master/0611-valid-triangle-number) |
@@ -381,4 +383,8 @@ leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nateci/algo-prac/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nateci/algo-prac/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
